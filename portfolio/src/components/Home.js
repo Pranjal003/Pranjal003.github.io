@@ -5,7 +5,7 @@ const Home = () => {
 
   const messages = [' Developer', ' Web Designer', ' Photographer', ' ML Enthusiast']; 
   const interval = 2000; // 2 seconds interval
-
+ 
   return (
     <section id="home" className="py-5 vh-100 w-100 text-center" style={{background: "linear-gradient(to right, #c8d2fa 50%, white 50%)"}}>
       <div className="container" style={{position: "absolute",
