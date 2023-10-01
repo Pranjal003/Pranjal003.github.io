@@ -3,7 +3,7 @@ import TxtRotate from './Txtrotate';
 
 const Home = () => {
 
-  const messages = [' Developer', ' Web Designer', ' Photographer', ' ML Enthusiast'];
+  const messages = [' Developer', ' Web Designer', ' Photographer', ' ML Enthusiast']; 
   const interval = 2000; // 2 seconds interval
 
   return (
